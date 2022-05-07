@@ -1,1 +1,3 @@
-WilderDispatches
+# WilderDispatches
+
+A simple callout plugin.
