@@ -1,0 +1,21 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net48</TargetFramework>
+    <LangVersion>latest</LangVersion>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="RagePluginHook" Version="1.86.1" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="CalloutInterface">
+      <HintPath>..\References\CalloutInterface.dll</HintPath>
+    </Reference>
+    <Reference Include="LSPD First Response">
+      <HintPath>..\References\LSPD First Response.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>
